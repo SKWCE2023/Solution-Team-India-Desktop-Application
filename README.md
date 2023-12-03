@@ -8,3 +8,7 @@ All the users in the database have a `type` field, and we assume that it's mappe
 | 4    | Administrator          |
 
 Hence, if you need to sign in as a Labratory Assitant, you may use the `login` and `password` of any user whose `role` is equal to 1. The same goes on for the others too.
+
+# Credentials
+We have also extracted a couple of credentials for each type of user, to ease the effort. You may find them in the attached document.
+[Credentials](https://github.com/SKWCE2023/documentations/blob/main/Credentials.pdf)
